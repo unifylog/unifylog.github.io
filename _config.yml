@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
+url: http://unifylog.github.io
+title: UnifyLog's Official Blog
 subtitle: A blogging framework for hackers.
-author: Your Name
+author: Andres Aguilar
 simple_search: https://www.google.com/search
 description:
 
