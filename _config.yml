@@ -99,3 +99,9 @@ google_analytics_tracking_id: UA-18276209-1
 
 # Facebook Like
 facebook_like: false
+# Jekyll tagging
+tag_page_layout: tag_page
+tag_page_dir: blog/tags
+tag_feed_layout: tag_feed
+tag_feed_dir: blog/tags
+tag_permalink_style : pretty
