@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Food Allergy Tracker | UnifyLog's]]></title>
+  <link href="http://unifylog.github.io/blog/categories/food-allergy-tracker/atom.xml" rel="self"/>
+  <link href="http://unifylog.github.io/"/>
+  <updated>2014-08-02T21:58:05-06:00</updated>
+  <id>http://unifylog.github.io/</id>
+  <author>
+    <name><![CDATA[Andres Aguilar]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Introducing Food Allergy Tracker Free! (Beta)]]></title>
+    <link href="http://unifylog.github.io/blog/2014/06/19/introducing-food-allergy-tracker-free-beta/"/>
+    <updated>2014-06-19T20:16:06-06:00</updated>
+    <id>http://unifylog.github.io/blog/2014/06/19/introducing-food-allergy-tracker-free-beta</id>
+    <content type="html"><![CDATA[<p>We are opening our new app to anyone interested in beta testing. Simply follow this link: to join the beta program and download: <a href="https://plus.google.com/communities/108264361539672674020">https://plus.google.com/communities/108264361539672674020</a></p>
+
+
+<p>Get it here:</p>
+
+
+<p><a title="Play Store" href="https://play.google.com/store/apps/details?id=com.unifylog.foodallergytracker.freeapp">Play Store</a></p>
+
+]]></content>
+  </entry>
+  
+</feed>
