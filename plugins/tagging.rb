@@ -9,7 +9,7 @@ module Jekyll
 
     attr_accessor :site
 
-    @types = [:page, :feed]
+    @types = ["page", "feed"]
 
     class << self; attr_accessor :types, :site; end
 
@@ -29,7 +29,7 @@ module Jekyll
     end
 
     def new_tag(tag, posts)
-      self.class.types.each { |type|
+      ["page", "feed"].each { |type|
         if layout = site.config["tag_#{type}_layout"]
           data = { 'layout' => layout, 'posts' => posts.sort.reverse!, 'tag' => tag }
 
@@ -37,13 +37,14 @@ module Jekyll
           name ||= tag
 
           tag_dir = site.config["tag_#{type}_dir"]
-          tag_dir = File.join(tag_dir, (pretty? ? name : ''))
-
-          page_name = "#{pretty? ? 'index' : name}#{site.layouts[data['layout']].ext}"
-
-          page = TagPage.new(
-            site, site.source, tag_dir, page_name, data
-          )
+          tag_dir = File.join(tag_dir, (pretty? ? name.to_url : ''))
+		  if type.eql? self.class.types.first
+          page_name = "index.html"
+		  else
+		  page_name = "atom.xml"
+		  end
+		  puts type + "][" + name.to_url
+          page = TagPage.new(site, site.source, tag_dir, page_name, data )
 		  page.render(site.layouts, site.site_payload)
 	      page.write(site.dest)
 		  site.pages << page
@@ -93,11 +94,12 @@ module Jekyll
       @dir  = dir
 	  @name = name
       self.process(@name)
-      self.read_yaml(File.join(base, '_layouts'), 'tag_page.html')
-      self.data['tag'] = name
-		puts "Hello[" + dir[-1, 1] == '/' ? dir : '/' + dir + "][" + name + "][" 
+      self.read_yaml(File.join(base, '_layouts'), data['layout'] + site.layouts[data['layout']].ext)
+	  puts "posts.size#{data['posts'].size}"
+      self.data['posts']=data['posts']
+		puts "Hello[" + dir[-1, 1] == '/' ? dir : '/' + dir + "][" + name + "]["  +data['tag']
       tag_title_prefix = site.config['tag_title_prefix'] || 'Tag: '
-      self.data['title'] = "#{tag_title_prefix}#{name}"
+      self.data['title'] = "#{tag_title_prefix}#{data['tag']}"
     end
 
   end
