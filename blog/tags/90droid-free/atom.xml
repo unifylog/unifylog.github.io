@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - </title>
+ <link href="http://example.com/blog/tags/90droid-free/atom.xml" rel="self"/>
+ <link href="http://example.com/tag/.html"/>
+ <updated>2014-08-04T08:23:48-06:00</updated>
+ <id>http://example.com/tag/.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Get the new &#8220;90Droid Free&#8221;</title>
+   <link href="http://example.com/blog/2012/12/08/get-the-new-90droid-free/"/>
+   <updated>2012-12-08T14:16:01-07:00</updated>
+   <id>http://example.com/blog/2012/12/08/get-the-new-90droid-free</id>
+   <content type="html">&lt;p&gt;&quot;90Droid Free&quot; is the new version of the app. Designed for people that want to give 90Droid a try. It offers the Three most used workout programs for you to track.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.unifylog.droid90free&quot;&gt;https://play.google.com/store/apps/details?id=com.unifylog.droid90free&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Marry Christmas everybody!&lt;/p&gt;
+&lt;p&gt;Team 90Droid&lt;/p&gt;
+</content>
+ </entry>
+ 
+</feed>
