@@ -37,13 +37,14 @@ module Jekyll
           name ||= tag
 
           tag_dir = site.config["tag_#{type}_dir"]
-          tag_dir = File.join(tag_dir, (pretty? ? name.to_url : ''))
+		  tag_url = name.downcase.to_url
+          tag_dir = File.join(tag_dir, (pretty? ? tag_url : ''))
 		  if type.eql? self.class.types.first
           page_name = "index.html"
 		  else
 		  page_name = "atom.xml"
 		  end
-		  puts type + "][" + name.to_url
+		  puts type + "][" + tag_url
           page = TagPage.new(site, site.source, tag_dir, page_name, data )
 		  page.render(site.layouts, site.site_payload)
 	      page.write(site.dest)
@@ -98,7 +99,7 @@ module Jekyll
 	  puts "posts.size#{data['posts'].size}"
       self.data['posts']=data['posts']
 		puts "Hello[" + dir[-1, 1] == '/' ? dir : '/' + dir + "][" + name + "]["  +data['tag']
-      tag_title_prefix = site.config['tag_title_prefix'] || 'Tag: '
+      tag_title_prefix = site.config['tag_title_prefix'] || ''
       self.data['title'] = "#{tag_title_prefix}#{data['tag']}"
     end
 
@@ -118,7 +119,7 @@ module Jekyll
     end
 
     def tag_url(tag, type = :page, site = Tagger.site)
-      url = File.join('', site.config["tag_#{type}_dir"], ERB::Util.u(tag))
+      url = File.join('', site.config["tag_#{type}_dir"], tag.downcase.to_url)
       site.permalink_style == :pretty || site.config['tag_permalink_style'] == 'pretty' ? url : url << '.html'
     end
 
