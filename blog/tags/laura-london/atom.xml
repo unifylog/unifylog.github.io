@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - </title>
+ <link href="http://example.com/blog/tags/laura-london/atom.xml" rel="self"/>
+ <link href="http://example.com/tag/.html"/>
+ <updated>2014-08-05T15:56:40-06:00</updated>
+ <id>http://example.com/tag/.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>90Droid v7.9 Released</title>
+   <link href="http://example.com/blog/2013/01/29/90droid-v7-9-released/"/>
+   <updated>2013-01-29T18:34:27-07:00</updated>
+   <id>http://example.com/blog/2013/01/29/90droid-v7-9-released</id>
+   <content type="html">&lt;p&gt;This is a &lt;strong&gt;HUGE &lt;/strong&gt;release for 90Droid&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;YouTube videos of your workouts:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Now you can link your exercises to videos in YouTube!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/you_tube_device-2013-01-29-191631-180x300.png&quot;&gt;&lt;img class=&quot;aligncenter size-medium wp-image-400&quot; title=&quot;you_tube_device-2013-01-29-191631&quot; src=&quot;/assets/you_tube_device-2013-01-29-191631-180x300.png&quot; alt=&quot;&quot; width=&quot;180&quot; height=&quot;300&quot; /&gt;&lt;/a&gt;If you see the YouTube icon above, simply tap on it and you will watch it right there:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/youtube_video_device-2013-01-29-191714-180x300.png&quot;&gt;&lt;img class=&quot;aligncenter size-medium wp-image-401&quot; title=&quot;youtube_video_device-2013-01-29-191714&quot; src=&quot;/assets/youtube_video_device-2013-01-29-191714-180x300.png&quot; alt=&quot;&quot; width=&quot;180&quot; height=&quot;300&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Credit to Laura London&lt;/p&gt;
+&lt;p&gt;YouTube video: &lt;a href=&quot;http://www.youtube.com/watch?v=HK6mKUEY09o&quot;&gt;http://www.youtube.com/watch?v=HK6mKUEY09o&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Her Page: &lt;a href=&quot;http://www.lauralondonfitness.com&quot;&gt;http://www.lauralondonfitness.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;New cleaner more modern interface:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;aligncenter size-medium wp-image-393&quot; title=&quot;w_device-2013-01-25-155519&quot; src=&quot;/assets/w_device-2013-01-25-155519-180x300.png&quot; alt=&quot;&quot; width=&quot;180&quot; height=&quot;300&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;If you have android 3.0 or Higher, you&#39;ll see the new cleaner interface&lt;/p&gt;
+&lt;p&gt;Import from 90Droid Free button:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/import_from_90droid_free_device-2013-01-29-185224-180x300.png&quot;&gt;&lt;img class=&quot;aligncenter size-medium wp-image-394&quot; title=&quot;import_from_90droid_free_device-2013-01-29-185224&quot; src=&quot;/assets/import_from_90droid_free_device-2013-01-29-185224-180x300.png&quot; alt=&quot;&quot; width=&quot;180&quot; height=&quot;300&quot; /&gt;&lt;/a&gt;If you have the free version and want to upgrade, simply have them both installed and go to the premium version &amp;gt; Backup/Restore and hit the &quot;Import from 90Droidfree&quot;. That&#39;s it, when you see the success message you are ready to use the premium version.&lt;/p&gt;
+&lt;p&gt;New Exercise Type: Timer&lt;/p&gt;
+&lt;p&gt;This is a count timer, when you star it you&#39;ll hear a beep&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/timer_device-2013-01-29-185823-180x300.png&quot;&gt;&lt;img class=&quot;aligncenter size-medium wp-image-395&quot; title=&quot;timer_device-2013-01-29-185823&quot; src=&quot;/assets/timer_device-2013-01-29-185823-180x300.png&quot; alt=&quot;&quot; width=&quot;180&quot; height=&quot;300&quot; /&gt;&lt;/a&gt;Shows in yellow and beeps a warning sound when you get to 10 seconds&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/timer_warning_device-2013-01-29-185902-180x300.png&quot;&gt;&lt;img class=&quot;aligncenter size-medium wp-image-396&quot; title=&quot;timer_warning_device-2013-01-29-185902&quot; src=&quot;/assets/timer_warning_device-2013-01-29-185902-180x300.png&quot; alt=&quot;&quot; width=&quot;180&quot; height=&quot;300&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You&#39;ll get a different beep when you are done&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/timer_warning_device-2013-01-29-185942-180x300.png&quot;&gt;&lt;img class=&quot;aligncenter size-medium wp-image-397&quot; title=&quot;timer_warning_device-2013-01-29-185942&quot; src=&quot;/assets/timer_warning_device-2013-01-29-185942-180x300.png&quot; alt=&quot;&quot; width=&quot;180&quot; height=&quot;300&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;As an Example we have shared the Laura London Standing up Abs one week program that uses this timers&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Quick sorting of Days:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;It is now very easy to change the order of your days, simply drag and drop in the new interface:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/quick_sort_device-2013-01-29-192336-180x300.png&quot;&gt;&lt;img class=&quot;aligncenter size-medium wp-image-403&quot; title=&quot;quick_sort_device-2013-01-29-192336&quot; src=&quot;/assets/quick_sort_device-2013-01-29-192336-180x300.png&quot; alt=&quot;&quot; width=&quot;180&quot; height=&quot;300&quot; /&gt;&lt;/a&gt;Go to the Programs Editor and select &quot;Quick Sort&quot; from the menu&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/quick_sort_day_list_device-2013-01-29-192438-180x300.png&quot;&gt;&lt;img class=&quot;aligncenter size-medium wp-image-402&quot; title=&quot;quick_sort_day_list_device-2013-01-29-192438&quot; src=&quot;/assets/quick_sort_day_list_device-2013-01-29-192438-180x300.png&quot; alt=&quot;&quot; width=&quot;180&quot; height=&quot;300&quot; /&gt;&lt;/a&gt;Then just drag an drop the list from the handle. Once you are done hit Save.&lt;/p&gt;
+</content>
+ </entry>
+ 
+</feed>

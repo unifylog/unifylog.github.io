@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - </title>
+ <link href="http://example.com/blog/tags/p90x/atom.xml" rel="self"/>
+ <link href="http://example.com/tag/.html"/>
+ <updated>2014-08-05T15:56:40-06:00</updated>
+ <id>http://example.com/tag/.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>90Droid v7.2 Released</title>
+   <link href="http://example.com/blog/2012/12/29/90droid-v7-2-released/"/>
+   <updated>2012-12-29T16:52:04-07:00</updated>
+   <id>http://example.com/blog/2012/12/29/90droid-v7-2-released</id>
+   <content type="html">&lt;p&gt;The most requested feature by power users:  Sorting of the days in a program definition. Here is how:&lt;/p&gt;
+&lt;p&gt;Go to Programs&lt;/p&gt;
+&lt;p&gt;Tap on the menu icon right the  (editable) Program. If not editable, hit menu and clone, that will give you a new program that you can modify&lt;/p&gt;
+&lt;p&gt;Once on the Edit screen tap the menu button at the bottom left of the screen and select More&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/select_more-180x300.png&quot;&gt;&lt;img class=&quot;size-medium wp-image-386 alignnone&quot; title=&quot;select_more&quot; src=&quot;/assets/select_more-180x300.png&quot; alt=&quot;&quot; width=&quot;180&quot; height=&quot;300&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Then select Quick-sort days:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/select_quick_sort_days-180x300.png&quot;&gt;&lt;img class=&quot;alignnone size-medium wp-image-387&quot; title=&quot;select_quick_sort_days&quot; src=&quot;/assets/select_quick_sort_days-180x300.png&quot; alt=&quot;&quot; width=&quot;180&quot; height=&quot;300&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Once there sort the days by pulling the days up or down by the handles on the left side:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/drag_and_drop_using_handles-180x300.png&quot;&gt;&lt;img class=&quot;alignnone size-medium wp-image-384&quot; title=&quot;drag_and_drop_using_handles&quot; src=&quot;/assets/drag_and_drop_using_handles-180x300.png&quot; alt=&quot;&quot; width=&quot;180&quot; height=&quot;300&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Once you are happy with the results, hit save:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/hit_save_when_done-180x300.png&quot;&gt;&lt;img class=&quot;alignnone size-medium wp-image-385&quot; title=&quot;hit_save_when_done&quot; src=&quot;/assets/hit_save_when_done-180x300.png&quot; alt=&quot;&quot; width=&quot;180&quot; height=&quot;300&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;And the changes are displayed as you are taken back to the edit screen&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/changes_have_been_saved-180x300.png&quot;&gt;&lt;img class=&quot;alignnone size-medium wp-image-383&quot; title=&quot;changes_have_been_saved&quot; src=&quot;/assets/changes_have_been_saved-180x300.png&quot; alt=&quot;&quot; width=&quot;180&quot; height=&quot;300&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Please keep in mind that this is still under construction but it is working very well so far. Please let us know of any comments you might have .&lt;/p&gt;
+&lt;p&gt;Happy new year&#39;s everybody&lt;/p&gt;
+&lt;p&gt;Team 90Droid&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Get the new &#8220;90Droid Free&#8221;</title>
+   <link href="http://example.com/blog/2012/12/08/get-the-new-90droid-free/"/>
+   <updated>2012-12-08T14:16:01-07:00</updated>
+   <id>http://example.com/blog/2012/12/08/get-the-new-90droid-free</id>
+   <content type="html">&lt;p&gt;&quot;90Droid Free&quot; is the new version of the app. Designed for people that want to give 90Droid a try. It offers the Three most used workout programs for you to track.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.unifylog.droid90free&quot;&gt;https://play.google.com/store/apps/details?id=com.unifylog.droid90free&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Marry Christmas everybody!&lt;/p&gt;
+&lt;p&gt;Team 90Droid&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>90Droid v3.6.0 released</title>
+   <link href="http://example.com/blog/2011/05/21/90droid-v3-6-0-released/"/>
+   <updated>2011-05-21T21:04:04-06:00</updated>
+   <id>http://example.com/blog/2011/05/21/90droid-v3-6-0-released</id>
+   <content type="html">&lt;p&gt;We are titling this release:  &lt;strong&gt;Thou shalt not scroll!!&lt;/strong&gt;&lt;br /&gt;
+90Droid will remember your last position on the program and highlight the latest workout you completed.&lt;/p&gt;
+&lt;p&gt;Enjoy,&lt;br /&gt;
+Team 90Droid&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>90Droid v3.5.0 released</title>
+   <link href="http://example.com/blog/2011/05/12/90droid-v3-5-0-released/"/>
+   <updated>2011-05-12T20:55:15-06:00</updated>
+   <id>http://example.com/blog/2011/05/12/90droid-v3-5-0-released</id>
+   <content type="html">&lt;p&gt;Did somebody say &lt;strong&gt;Insanity&lt;/strong&gt;? No need to pay extra, it&#39;s all here and yes, it&#39;s free for all of you 90Droid lovers.&lt;/p&gt;
+&lt;p&gt;Enjoy&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>90Droid v3.2.0 released</title>
+   <link href="http://example.com/blog/2011/04/24/90droid-v3-2-0-released/"/>
+   <updated>2011-04-24T20:09:09-06:00</updated>
+   <id>http://example.com/blog/2011/04/24/90droid-v3-2-0-released</id>
+   <content type="html">&lt;p&gt;&lt;img class=&quot;size-medium wp-image-232 alignright&quot; title=&quot;All Programs&quot; src=&quot;/assets/programs-168x300.png&quot; alt=&quot;&quot; width=&quot;168&quot; height=&quot;300&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Hello 90Droid fans, this is a huge release for us. We have included P90X Plus to the app.&lt;/p&gt;
+&lt;p&gt;So all you need to do is update and you&#39;ll get them for FREE.&lt;/p&gt;
+&lt;p&gt;So if you are ready for the next level, all you need to do is select the The plus workouts, that is three new Programs: Plus Classic, Plus Lean and Plus Doubles. and new Workout Groups: Upper, Total Body, Abs Core, Interval. And since it&#39;s part of the app, you get charts, backup and all the features that make 90Droid unique.&lt;/p&gt;
+&lt;p&gt;To celebrate this launch we have reduced the price of the app for a limited time, so go ahead and take advantage of this opportunity.&lt;/p&gt;
+&lt;p&gt;Enjoy&lt;br /&gt;
+Team 90Droid&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>90Droid video review</title>
+   <link href="http://example.com/blog/2011/04/22/90droid-video-review/"/>
+   <updated>2011-04-22T11:46:46-06:00</updated>
+   <id>http://example.com/blog/2011/04/22/90droid-video-review</id>
+   <content type="html">&lt;p&gt;Look at what we found on youtube:&lt;br /&gt;
+&lt;iframe title=&quot;YouTube video player&quot; width=&quot;580&quot; height=&quot;353&quot; src=&quot;http://www.youtube.com/embed/DjDt33f269k&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;  *Note: this is an independent review, we did not sponsor it.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>90Droid v3.1.0 released</title>
+   <link href="http://example.com/blog/2011/04/22/90droid-v3-1-0-released/"/>
+   <updated>2011-04-22T11:36:58-06:00</updated>
+   <id>http://example.com/blog/2011/04/22/90droid-v3-1-0-released</id>
+   <content type="html">&lt;p&gt;We have included the following fixes:&lt;/p&gt;
+&lt;p&gt;* Maintaining position on day and workout lists.&lt;/p&gt;
+&lt;div id=&quot;_mcePaste&quot;&gt;* Marking individual workouts as completed with a checkmark.&lt;/div&gt;
+&lt;div id=&quot;_mcePaste&quot;&gt;* Fixed backup issue for myTouch 4G and other&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>90Droid v3.0.0 Released</title>
+   <link href="http://example.com/blog/2011/04/10/90droid-v3-0-0-released/"/>
+   <updated>2011-04-10T16:59:19-06:00</updated>
+   <id>http://example.com/blog/2011/04/10/90droid-v3-0-0-released</id>
+   <content type="html">&lt;p&gt;This release implements the Android Market Licensing allowing users with rooted devices to see and install the app.&lt;/p&gt;
+&lt;p&gt;Enjoy,&lt;/p&gt;
+&lt;p&gt;Team 90Droid&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>90Droid v2.8 Released</title>
+   <link href="http://example.com/blog/2011/03/13/90droid-v2-8-released/"/>
+   <updated>2011-03-13T19:25:05-06:00</updated>
+   <id>http://example.com/blog/2011/03/13/90droid-v2-8-released</id>
+   <content type="html">&lt;p&gt;&lt;img class=&quot;size-medium wp-image-170 alignleft&quot; src=&quot;/assets/cyles_main_menu_2_8-200x300.png&quot; alt=&quot;&quot; width=&quot;200&quot; height=&quot;300&quot; /&gt;&lt;br /&gt;
+We have created the cycles functionality. This will let you &quot;start over&quot; whenever you want. This has been a very frequent request from the our 90Droid fans.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>90Droid v2.7 Released</title>
+   <link href="http://example.com/blog/2011/03/04/90droid-v2-7-released/"/>
+   <updated>2011-03-04T11:56:57-07:00</updated>
+   <id>http://example.com/blog/2011/03/04/90droid-v2-7-released</id>
+   <content type="html">&lt;p&gt;Hello everybody, we have released version 2.7 of 90Droid.&lt;/p&gt;
+&lt;p&gt;The new feature lets you chart your measurements progress. That is: Weight, Body fat %, Chest, Hips, Arms, Neck, Waist and Thighs.&lt;/p&gt;
+&lt;p&gt;Enjoy.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>90Droid not showing in the Android Market/Stopped working after Froyo update</title>
+   <link href="http://example.com/blog/2011/02/25/90droid-not-showing-in-the-android-marketstopped-working-after-froyo-update/"/>
+   <updated>2011-02-25T11:25:12-07:00</updated>
+   <id>http://example.com/blog/2011/02/25/90droid-not-showing-in-the-android-marketstopped-working-after-froyo-update</id>
+   <content type="html">&lt;p&gt;Hello everybody,&lt;/p&gt;
+&lt;p&gt;We have received many emails telling us that 90Droid disappeared from the Android Market or cannot be accessed after a Froyo update.&lt;br /&gt;
+Unfortunately, we don&#39;t really have control over the delivery of the app (downloading and installing it). That is controlled by the android market. Please contact them using their support page: &lt;a href=&quot;http://www.google.com/support/androidmarket/bin/request.py?contact_type=paid_am_apps&quot;&gt;Android Market Support Page&lt;/a&gt;&lt;br /&gt;
+They are usually pretty good at resolving any issues.&lt;/p&gt;
+&lt;p&gt;Doing a quick google search, I found the following thread that discusses possible solutions &lt;a href=&quot;http://www.google.com/support/forum/p/Android%20Market/thread?tid=0b929effaf6c8573&amp;amp;hl=en&quot;&gt;http://www.google.com/support/forum/p/Android%20Market/thread?tid=0b929effaf6c8573&amp;amp;hl=en&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I hope this helps, let us know of any other concerns you might have.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>90Droid v2.6.5 Released</title>
+   <link href="http://example.com/blog/2011/02/21/90droid-v2-6-5-released/"/>
+   <updated>2011-02-21T20:30:40-07:00</updated>
+   <id>http://example.com/blog/2011/02/21/90droid-v2-6-5-released</id>
+   <content type="html">&lt;p&gt;On this version:&lt;/p&gt;
+&lt;p&gt;* Minor fixes to the backup functionality (User Interface)&lt;br /&gt;
+* Added Zero weight option. (Thank you Donna)&lt;br /&gt;
+* Included waist measurement column when on landscape mode. (Thank you JD)&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>90Droid v2.6.2 Released</title>
+   <link href="http://example.com/blog/2011/02/18/90droid-v2-6-2-released/"/>
+   <updated>2011-02-18T14:44:06-07:00</updated>
+   <id>http://example.com/blog/2011/02/18/90droid-v2-6-2-released</id>
+   <content type="html">&lt;p&gt;On this release we address a common concern amongst users:  Backup/Restore. Here is how it works:&lt;/p&gt;
+&lt;p&gt;In the main screen press the &quot;menu&quot; key and select &quot;Backup/Restore&quot;.&lt;/p&gt;
+&lt;h2&gt;Back up&lt;/h2&gt;
+&lt;p&gt;Click on the &quot;Backup&quot; button and the process starts:&lt;/p&gt;
+&lt;p&gt;You need to select a google account from the list (to be used to log you in)&lt;/p&gt;
+&lt;p&gt;Both your Workouts and Measurements are uploaded to a secure google server. Note: this will overwrite the previous backup.&lt;/p&gt;
+&lt;h2&gt;Restore&lt;/h2&gt;
+&lt;p&gt;Click on the &quot;Restore&quot; button and the process starts:&lt;/p&gt;
+&lt;p&gt;You need to select a google account from the list (to be used to log you in)&lt;/p&gt;
+&lt;p&gt;You will be presented with a list of devices that have had back ups using the same google account. (Useful to back up in one device and restore in another) Select one of them.&lt;/p&gt;
+&lt;p&gt;Both your Workouts and Measurements are downloaded from the cloud. Note: this will overwrite your local data.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>90Droid v2.5 Released</title>
+   <link href="http://example.com/blog/2011/01/27/90droid-v2-5-released/"/>
+   <updated>2011-01-27T23:14:02-07:00</updated>
+   <id>http://example.com/blog/2011/01/27/90droid-v2-5-released</id>
+   <content type="html">&lt;p&gt;In this release we implemented the ability to change the date of previous measurements. This is done in a similar fashion to the change date for previous workouts: press the measurement element in the list. Then select &quot;Edit Date&quot;. Thank you Daniel S.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/measurements_edit_date_2_5-200x300.png&quot;&gt;&lt;img class=&quot;alignnone size-medium wp-image-144&quot; src=&quot;/assets/measurements_edit_date_2_5-200x300.png&quot; alt=&quot;&quot; width=&quot;200&quot; height=&quot;300&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>90Droid v2.3.5 Released</title>
+   <link href="http://example.com/blog/2011/01/08/90droid-v2-3-5-released/"/>
+   <updated>2011-01-08T08:41:10-07:00</updated>
+   <id>http://example.com/blog/2011/01/08/90droid-v2-3-5-released</id>
+   <content type="html">&lt;p&gt;This was an emergency fix. It looks like some people were having issues with the 2.3 release that forced close when selecting a workout. We are terribly sorry about the incident. It you have any comments please send us a note.&lt;/p&gt;
+&lt;p&gt;Team 90Droid&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>90Droid v2.3 Released</title>
+   <link href="http://example.com/blog/2011/01/07/90droid-v2-3-released/"/>
+   <updated>2011-01-07T21:59:19-07:00</updated>
+   <id>http://example.com/blog/2011/01/07/90droid-v2-3-released</id>
+   <content type="html">&lt;p&gt;In this release we have included better landscape layout:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/landscape_weight_reps_2_3-e1294466129242-300x200.png&quot;&gt;&lt;img class=&quot;alignnone size-medium wp-image-119&quot; src=&quot;/assets/landscape_kenpo_chart_2_3-e1294466204507-300x200.png&quot; alt=&quot;&quot; width=&quot;300&quot; height=&quot;200&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;/assets/landscape_cardio_2_3.png&quot;&gt;&lt;img class=&quot;alignnone size-medium wp-image-120&quot; src=&quot;/assets/landscape_cardio_2_3-e1294466043511-300x200.png&quot; alt=&quot;&quot; width=&quot;300&quot; height=&quot;200&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;/assets/landscape_weight_reps_2_3.png&quot;&gt;&lt;img class=&quot;alignnone size-medium wp-image-121&quot; src=&quot;/assets/landscape_weight_reps_2_3-e1294466129242-300x200.png&quot; alt=&quot;&quot; width=&quot;300&quot; height=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We have also fixed charts not showing data in droid 2 and My Touch 4G&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>90Droid v2.2 Released</title>
+   <link href="http://example.com/blog/2010/12/25/90droid-v2-2-released/"/>
+   <updated>2010-12-25T15:06:43-07:00</updated>
+   <id>http://example.com/blog/2010/12/25/90droid-v2-2-released</id>
+   <content type="html">&lt;p&gt;The most requested feature in the history of 90Droid. In this release we have a gift for all you 90Droid fans: Charts!!. Happy Holidays!!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/charts_kenpo_2_2-200x300.png&quot;&gt;&lt;img class=&quot;alignnone size-medium wp-image-111&quot; src=&quot;/assets/charts__in_menu_2_2-200x300.png&quot; alt=&quot;&quot; width=&quot;200&quot; height=&quot;300&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;/assets/charts_wg_selection_2_2.png&quot;&gt;&lt;img class=&quot;alignnone size-medium wp-image-107&quot; src=&quot;/assets/charts_wg_selection_2_2-200x300.png&quot; alt=&quot;&quot; width=&quot;200&quot; height=&quot;300&quot; /&gt;&lt;/a&gt; &lt;img class=&quot;alignnone size-medium wp-image-112&quot; src=&quot;/assets/charts_legs_and_back_2_2-200x300.png&quot; alt=&quot;&quot; width=&quot;200&quot; height=&quot;300&quot; /&gt; &lt;img class=&quot;alignnone size-medium wp-image-110&quot; src=&quot;/assets/charts_kenpo_2_2-200x300.png&quot; alt=&quot;&quot; width=&quot;200&quot; height=&quot;300&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;alignnone size-medium wp-image-108&quot; src=&quot;/assets/charts_yoga_2_2-200x300.png&quot; alt=&quot;&quot; width=&quot;200&quot; height=&quot;300&quot; /&gt; &lt;img class=&quot;alignnone size-medium wp-image-109&quot; src=&quot;/assets/charts_shoulders_and_arms_2_2-200x300.png&quot; alt=&quot;&quot; width=&quot;200&quot; height=&quot;300&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/charts_kenpo_2_2.png&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Note: available for devices running Android 2.1 and up&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>90Droid v2.1 Released</title>
+   <link href="http://example.com/blog/2010/12/15/90droid-v2-1-released/"/>
+   <updated>2010-12-15T23:23:44-07:00</updated>
+   <id>http://example.com/blog/2010/12/15/90droid-v2-1-released</id>
+   <content type="html">&lt;div&gt;There are 3 frequently requested changes in this version:&lt;/div&gt;
+&lt;div&gt;* Ability to select date for a saved workout&lt;/div&gt;
+&lt;div&gt;&lt;a href=&quot;/assets/edit_date_dialog_2_1-200x300.png&quot;&gt;&lt;img class=&quot;alignnone size-medium wp-image-97&quot; src=&quot;/assets/edit_date_2_1-200x300.png&quot; alt=&quot;&quot; width=&quot;200&quot; height=&quot;300&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;/assets/edit_date_dialog_2_1.png&quot;&gt;&lt;img class=&quot;alignnone size-medium wp-image-98&quot; src=&quot;/assets/edit_date_dialog_2_1-200x300.png&quot; alt=&quot;&quot; width=&quot;200&quot; height=&quot;300&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;* Customization of the number of reps.&lt;/div&gt;
+&lt;div&gt;&lt;a href=&quot;/assets/max_reps_preferences_199_selected_2_1-200x300.png&quot;&gt;&lt;img class=&quot;alignnone size-medium wp-image-102&quot; src=&quot;/assets/max_reps_preferences_2_1-200x300.png&quot; alt=&quot;&quot; width=&quot;200&quot; height=&quot;300&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;/assets/max_reps_preferences_199_2_1.png&quot;&gt;&lt;img class=&quot;alignnone size-medium wp-image-101&quot; src=&quot;/assets/max_reps_preferences_199_2_1-200x300.png&quot; alt=&quot;&quot; width=&quot;200&quot; height=&quot;300&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;/assets/max_reps_preferences_199_selected_2_1.png&quot;&gt;&lt;img class=&quot;alignnone size-medium wp-image-100&quot; src=&quot;/assets/max_reps_preferences_199_selected_2_1-200x300.png&quot; alt=&quot;&quot; width=&quot;200&quot; height=&quot;300&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;* Added extra values for weights (8 &amp;amp; 12). This is a temporary solution, we are implementing the customization of the weights.&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/more_weights_2_1-200x300.png&quot;&gt;&lt;img class=&quot;alignnone size-medium wp-image-99&quot; src=&quot;/assets/more_weights_2_1-200x300.png&quot; alt=&quot;&quot; width=&quot;200&quot; height=&quot;300&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>90Droid v2.0 Released</title>
+   <link href="http://example.com/blog/2010/12/08/90droid-v2-0-released/"/>
+   <updated>2010-12-08T22:17:48-07:00</updated>
+   <id>http://example.com/blog/2010/12/08/90droid-v2-0-released</id>
+   <content type="html">&lt;p&gt;This release include the ability to track each ab ripper exercise separately. It also separates the workout list by workout groups.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/Ab_ripper_2_0-200x300.png&quot;&gt;&lt;img class=&quot;alignnone size-medium wp-image-93&quot; src=&quot;/assets/Ab_ripper_2_0-200x300.png&quot; alt=&quot;&quot; width=&quot;200&quot; height=&quot;300&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>90Droid v1.9.5 Released</title>
+   <link href="http://example.com/blog/2010/12/05/90droid-v1-9-5-released/"/>
+   <updated>2010-12-05T14:49:59-07:00</updated>
+   <id>http://example.com/blog/2010/12/05/90droid-v1-9-5-released</id>
+   <content type="html">&lt;p&gt;This is a maintenance release to fix some reported bugs:&lt;/p&gt;
+&lt;div&gt;* Fixes the reported  glitch with &quot;Notes&quot; on Droid X (Thanks Kelly)&lt;/div&gt;
+&lt;div&gt;* Fixes an scheduling error in Weeks 10 and 11 in the classic program (Thanks Jeff)&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>90Droid v1.9 Released</title>
+   <link href="http://example.com/blog/2010/11/28/90droid-v1-9-released/"/>
+   <updated>2010-11-28T16:54:09-07:00</updated>
+   <id>http://example.com/blog/2010/11/28/90droid-v1-9-released</id>
+   <content type="html">&lt;p&gt;Added Bowflex®  Selecttech 1090 and extended standard dumbbells&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/weight_selection_1_9-200x300.png&quot;&gt;&lt;img class=&quot;alignnone size-medium wp-image-85&quot; src=&quot;/assets/weight_selection_1_9-200x300.png&quot; alt=&quot;&quot; width=&quot;200&quot; height=&quot;300&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>90Droid v1.8 Released</title>
+   <link href="http://example.com/blog/2010/11/28/90droid-v1-8-released/"/>
+   <updated>2010-11-28T16:49:56-07:00</updated>
+   <id>http://example.com/blog/2010/11/28/90droid-v1-8-released</id>
+   <content type="html">&lt;p&gt;In this release we are including the visual indicators of completed exercises. When you workout on a specific day, the check mark will appear next to the last date it was done.  In case the same day has been done more than once, the number of times will appear in parenthesis.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/mark_done_1_8-200x300.png&quot;&gt;&lt;img class=&quot;alignnone size-medium wp-image-81&quot; src=&quot;/assets/mark_done_1_8-200x300.png&quot; alt=&quot;&quot; width=&quot;200&quot; height=&quot;300&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>90Droid v1.7 Released</title>
+   <link href="http://example.com/blog/2010/11/22/90droid-v1-7-released/"/>
+   <updated>2010-11-22T20:11:00-07:00</updated>
+   <id>http://example.com/blog/2010/11/22/90droid-v1-7-released</id>
+   <content type="html">&lt;p&gt;Double fun in this release. We added support for doubles so now you can track your cardio in the A.M. and the resistance in the P.M.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/select_program_doubles_1_7-200x300.png&quot;&gt;&lt;img class=&quot;alignnone size-medium wp-image-77&quot; src=&quot;/assets/select_program_doubles_1_7-200x300.png&quot; alt=&quot;&quot; width=&quot;200&quot; height=&quot;300&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Also in this release, the visual separation by week in the main screen makes it easier to navigate.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/week_separated_list_1_7-200x300.png&quot;&gt;&lt;img class=&quot;alignnone size-medium wp-image-78&quot; src=&quot;/assets/week_separated_list_1_7-200x300.png&quot; alt=&quot;&quot; width=&quot;200&quot; height=&quot;300&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Enjoy,&lt;/p&gt;
+&lt;p&gt;Team 90Droid&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>90Droid v1.6 Released</title>
+   <link href="http://example.com/blog/2010/11/21/90droid-v1-6-released/"/>
+   <updated>2010-11-21T13:09:55-07:00</updated>
+   <id>http://example.com/blog/2010/11/21/90droid-v1-6-released</id>
+   <content type="html">&lt;p&gt;This release includes the long-requested custom notes. Now you can type your comments on every exercise. Here is how it works:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/free_text_notes_1_6-200x300.png&quot;&gt;&lt;img class=&quot;alignnone size-medium wp-image-65&quot; src=&quot;/assets/free_text_notes_1_6-200x300.png&quot; alt=&quot;&quot; width=&quot;200&quot; height=&quot;300&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/free_text_notes_1_6.png&quot;&gt;&lt;/a&gt;When you click on the notes button you get this screen where you can type any comment you want&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;size-medium wp-image-63 alignnone&quot; src=&quot;/assets/prev_notes_quicknote_1_6-200x300.png&quot; alt=&quot;&quot; width=&quot;200&quot; height=&quot;300&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;You can also  select any of the quick notes on the list. This will replace whatever was in the text field&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/prev_notes_short_elipsis_1_6-200x300.png&quot;&gt;&lt;img class=&quot;alignnone size-medium wp-image-66&quot; src=&quot;/assets/prev_notes_short_elipsis_1_6-200x300.png&quot; alt=&quot;&quot; width=&quot;200&quot; height=&quot;300&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Once the notes are saved, they will be displayed in a short format in the previous list. Ellipsis denote text too long to display in that space. Also note that the Date is now displayed in a new column&lt;/p&gt;
+&lt;p&gt;To read the full-length text:&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;size-medium wp-image-64 alignnone&quot; src=&quot;/assets/prev_notes_select_1_6-200x300.png&quot; alt=&quot;&quot; width=&quot;200&quot; height=&quot;300&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Long-press over the element in the previous list and select&quot;View Notes&quot;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;size-medium wp-image-62 alignnone&quot; src=&quot;/assets/prev_notes_view_1_6-200x300.png&quot; alt=&quot;&quot; width=&quot;200&quot; height=&quot;300&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;That will display the notes for that workout instance&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>90Droid v1.5 Released</title>
+   <link href="http://example.com/blog/2010/11/15/90droid-v1-5-released/"/>
+   <updated>2010-11-15T23:30:52-07:00</updated>
+   <id>http://example.com/blog/2010/11/15/90droid-v1-5-released</id>
+   <content type="html">&lt;p&gt;One of the most requested features, the ability to select between Lean and Classic.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/lean_1_5-200x300.png&quot;&gt;&lt;img class=&quot;size-medium wp-image-57 alignnone&quot; src=&quot;/assets/select_program_1_5-200x300.png&quot; alt=&quot;&quot; width=&quot;200&quot; height=&quot;300&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;/assets/lean_1_5.png&quot;&gt;&lt;img class=&quot;size-medium wp-image-58 alignnone&quot; src=&quot;/assets/lean_1_5-200x300.png&quot; alt=&quot;&quot; width=&quot;200&quot; height=&quot;300&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Note: The programs are independent from each other. So your history in Lean is independent of the one in Classic&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>90Droid v1.4 Released</title>
+   <link href="http://example.com/blog/2010/11/09/90droid-v1-4-released/"/>
+   <updated>2010-11-09T22:16:56-07:00</updated>
+   <id>http://example.com/blog/2010/11/09/90droid-v1-4-released</id>
+   <content type="html">&lt;p&gt;One of the most anticipated releases is finally out. It features  multiple measurements tracking.&lt;/p&gt;
+&lt;p&gt;If you are doing p90x you want to keep track of your weight and body fat percentage. You also want to see your results by comparing your measurements with certain frequency and add notes to help you with your progress.&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;size-medium wp-image-48 alignnone&quot; src=&quot;/assets/measurements_list_1_4-200x300.png&quot; alt=&quot;&quot; width=&quot;200&quot; height=&quot;300&quot; /&gt; &lt;a href=&quot;/assets/measurements_1_4-200x300.png&quot;&gt;&lt;img class=&quot;size-medium wp-image-49 alignnone&quot; src=&quot;/assets/measurements_1_4-200x300.png&quot; alt=&quot;&quot; width=&quot;200&quot; height=&quot;300&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;To reach the measurements list screen press menu and select measurements.&lt;/p&gt;
+&lt;p&gt;Enjoy&lt;/p&gt;
+&lt;p&gt;Team 90Droid&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>90Droid v1.3 Released</title>
+   <link href="http://example.com/blog/2010/10/31/90droid-v1-3-released/"/>
+   <updated>2010-10-31T12:26:16-06:00</updated>
+   <id>http://example.com/blog/2010/10/31/90droid-v1-3-released</id>
+   <content type="html">&lt;p&gt;Don&#39;t you hate it when your phone locks in the middle of your workout? Well we have the solution in this release.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/preferences_screen_1_32.png&quot;&gt;&lt;img class=&quot;alignnone size-full wp-image-38&quot; src=&quot;/assets/preferences_menu_selected_1_31.png&quot; alt=&quot;&quot; width=&quot;200&quot; height=&quot;300&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;/assets/preferences_screen_1_32.png&quot;&gt;&lt;img class=&quot;size-full wp-image-40 alignnone&quot; src=&quot;/assets/preferences_screen_1_32.png&quot; alt=&quot;&quot; width=&quot;200&quot; height=&quot;	300&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;*This feature is only available for Android 2.1 and higher.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>90Droid v1.2 Released</title>
+   <link href="http://example.com/blog/2010/10/24/90droid-v1-2-released/"/>
+   <updated>2010-10-24T22:57:38-06:00</updated>
+   <id>http://example.com/blog/2010/10/24/90droid-v1-2-released</id>
+   <content type="html">&lt;p&gt;In this release we have includes:&lt;/p&gt;
+&lt;p&gt;* The ability to edit/delete previous items.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/workout_context_menu_1_2-200x300.png&quot;&gt;&lt;img class=&quot;alignnone size-medium wp-image-23&quot; src=&quot;/assets/workout_previous_list_1_2-200x300.png&quot; alt=&quot;&quot; width=&quot;200&quot; height=&quot;300&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;/assets/workout_context_menu_1_2.png&quot;&gt;&lt;img class=&quot;alignnone size-medium wp-image-22&quot; src=&quot;/assets/workout_context_menu_1_2-200x300.png&quot; alt=&quot;&quot; width=&quot;200&quot; height=&quot;300&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Long press an item in the list to bring up the menu.&lt;/p&gt;
+&lt;p&gt;- Delete will remove the record permanently&lt;/p&gt;
+&lt;p&gt;- Copy to Current will copy the selected Weight/Reps/Notes to the top controls.&lt;/p&gt;
+&lt;p&gt;* Some minor improvements in the user interface.&lt;/p&gt;
+&lt;p&gt;Enjoy,&lt;/p&gt;
+&lt;p&gt;Team 90Droid&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>90Droid v1.1 Released</title>
+   <link href="http://example.com/blog/2010/10/21/90droid-v1-1-released/"/>
+   <updated>2010-10-21T13:58:49-06:00</updated>
+   <id>http://example.com/blog/2010/10/21/90droid-v1-1-released</id>
+   <content type="html">&lt;p&gt;This release includes a minor fix for the shoulders and arms routine.&lt;/p&gt;
+&lt;p&gt;It also lets you open the menu from the workout group list&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>90Droid v1.0 Released</title>
+   <link href="http://example.com/blog/2010/10/20/90droid-v1-0-released/"/>
+   <updated>2010-10-20T23:18:18-06:00</updated>
+   <id>http://example.com/blog/2010/10/20/90droid-v1-0-released</id>
+   <content type="html">&lt;p&gt;We have released the first version of 90Droid, a fitness tracker for P90X.&lt;/p&gt;
+&lt;p&gt;As P90X grads and after trying several apps, we realized that there was a need for a fitness trackers created specifically for p90X. These are the design guidelines:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;You must be able to log a workout with minimum effort. Let&#39;s face it, in the middle of your workout you don&#39;t want to waste time typing.&lt;/li&gt;
+&lt;li&gt;You should be able to be up and running the minute you download the app.  The app should come pre-configured with the most common options.&lt;/li&gt;
+&lt;li&gt;You should love it. It should make you want to workout and complete the program.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Enjoy&lt;/p&gt;
+&lt;p&gt;Team 90Droid&lt;/p&gt;
+</content>
+ </entry>
+ 
+</feed>
