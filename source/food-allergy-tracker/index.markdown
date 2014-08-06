@@ -18,7 +18,7 @@ author:
   first_name: ''
   last_name: ''
 ---
-<p><img class="alignnone size-medium wp-image-473" src="assets/feature-300x146.png" alt="feature" width="300" height="146" /></p>
+<p><img class="alignnone size-medium wp-image-473" src="/assets/feature-300x146.png" alt="feature" width="300" height="146" /></p>
 <p>Food Allergy Tracker Free or F.A.T Free for short is a feature-rich app that lets you keep track of potential allergens, symptoms and treatments. Generates reports that you can send to your healthcare provider.</p>
 <p>&nbsp;</p>
 <p>You can download it here:</p>

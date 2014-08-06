@@ -19,7 +19,7 @@ author:
   last_name: ''
 ---
 <h2>Previously Extreme Fitness Tracker or 90Droid </h2>
-<p><a href="assets/90DroidBanner.jpg"><img class="alignnone size-full wp-image-128" title="90DroidBanner" alt="" src="assets/90DroidBanner.jpg" width="256" height="125" /></a></p>
+<p><a href="/assets/90DroidBanner.jpg"><img class="alignnone size-full wp-image-128" title="90DroidBanner" alt="" src="/assets/90DroidBanner.jpg" width="256" height="125" /></a></p>
 <p>Extreme Fitness Tracker (Previously  90Droid)  is developed by P90X Grads. It is constantly being updated to accommodate community request. Our goal is to make a product that you can use throughout your workout.</p>
 <ul>
 <li>Easy to use: the interface must be intuitive</li>
