@@ -33,6 +33,6 @@ author:
 </ul>
 <p><strong>Go to <a title="www.90droid.com" href="http://www.90droid.com">90Droid.com</a></strong></p>
 <p>Disclaimer: Extreme Fitness Tracker (90Droid) is not sponsored, supported or developed by Beachbody, they are the only proprietors of P90X. Buy the product it's pretty awesome: <a href="http://www.beachbody.com/P90X" target="_blank">www.beachbody.com/P90X</a></p>
-<div><a href="https://market.android.com/details?id=com.unifylog.droid90&amp;feature=top-paid" target="_blank"><img class="size-full wp-image-225 alignleft" title="Android Market" alt="" src="assets/QR_90Droid__android_market.png" width="200" height="200" /></a><a href="http://www.amazon.com/UnifyLog-90Droid-for-P90X/dp/B004TC31JC/" target="_blank"><img class="size-full wp-image-226" title="Amazon Market" alt="" src="assets/QR_90Droid_amazon_market.png" width="200" height="200" /></a></div>
+<div><a href="https://market.android.com/details?id=com.unifylog.droid90&amp;feature=top-paid" target="_blank"><img class="size-full wp-image-225 alignleft" title="Android Market" alt="" src="/assets/QR_90Droid__android_market.png" width="200" height="200" /></a><a href="http://www.amazon.com/UnifyLog-90Droid-for-P90X/dp/B004TC31JC/" target="_blank"><img class="size-full wp-image-226" title="Amazon Market" alt="" src="/assets/QR_90Droid_amazon_market.png" width="200" height="200" /></a></div>
 <p style="text-align: center;">
 
