@@ -4,7 +4,7 @@
   <title><![CDATA[Category: 90droid | UnifyLog's]]></title>
   <link href="http://unifylog.github.io/blog/categories/90droid/atom.xml" rel="self"/>
   <link href="http://unifylog.github.io/"/>
-  <updated>2014-08-06T19:08:58-06:00</updated>
+  <updated>2015-09-06T16:03:49-07:00</updated>
   <id>http://unifylog.github.io/</id>
   <author>
     <name><![CDATA[Andres Aguilar]]></name>
@@ -14,9 +14,95 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Fit XT CSV Import]]></title>
+    <link href="http://unifylog.github.io/blog/2015/09/06/fit-xt-csv-import/"/>
+    <updated>2015-09-06T15:11:03-07:00</updated>
+    <id>http://unifylog.github.io/blog/2015/09/06/fit-xt-csv-import</id>
+    <content type="html"><![CDATA[<p>We have introduced the ability to import CSV files, here we describe the expected format.</p>
+
+<p>CSV stands for Comma Separated Values. A CSV file is a plain text file that contains columns separated by commas and every new line corresponds to a row.</p>
+
+<p>Every file defines one and only one Exercise Program.
+For every <em>Program</em> you must define <em>Days</em>, <em>Exercise Groups</em> and <em>Exercises</em> in that order.
+The number of columns varies depending according to the rules defined below.</p>
+
+<h2>Comments</h2>
+
+<p>A line that starts with <code>#,</code> is considered a comment and hence ignored. Exaple:</p>
+
+<pre><code>#,"This is a comment line, it starts with #, and the rest is ignored"
+</code></pre>
+
+<h2>Exercise Program</h2>
+
+<p><em>There can only be one per file</em></p>
+
+<h3>Columns</h3>
+
+<p>PROGRAM, Name, Notes</p>
+
+<h3>Example</h3>
+
+<pre><code class="">"PROGRAM","90 day Classic","Program Notes"
+</code></pre>
+
+<h2>Days</h2>
+
+<p>There can be multiple in the file. Order of appearance is important</p>
+
+<h3>Columns</h3>
+
+<p>DAY,Exercise Group Name1, Exercise Group Name 2,&hellip;</p>
+
+<h3>Example</h3>
+
+<pre><code>"DAY","Chest","Abs"
+</code></pre>
+
+<h2>Exercise Groups</h2>
+
+<p>There can be multiple in the file. Order of appearance is important</p>
+
+<h3>Columns</h3>
+
+<p>GROUP, Group Name, Group Notes,Exercise Name1, Exercise Name 2,&hellip;</p>
+
+<h3>Examples</h3>
+
+<pre><code>"GROUP","Chest","Sample Import Group","Push-ups","Pull-ups","Curls"
+"GROUP","Abs",,"Uphill Bicycle","Crunches"
+</code></pre>
+
+<h2>Exercises</h2>
+
+<p>There can be multiple in the file. Order of appearance is important</p>
+
+<h3>Columns</h3>
+
+<p>EXERCISE, Exercise Name, Exercise Notes,Exercise Type (C=Cardio,R=Reps,RW=Reps and Weight,T=Count down timer,SW=Stop Watch), Duration, Youtube video Id, Youtube video duration, Youtube video start time</p>
+
+<h3>Example</h3>
+
+<pre><code>"EXERCISE","Push-ups",,"R","0",,"0","0"
+"EXERCISE","Pull-ups",,"R","0",,"0","0"
+"EXERCISE","Curls",,"RW","0",,"0","0"
+"EXERCISE","Uphill Bicycle",,"R","0",,"0","0"
+"EXERCISE","Crunches",,"R","0",,"0","0"
+</code></pre>
+
+<h1>Template</h1>
+
+<p><a href="https://drive.google.com/uc?export=download&amp;id=0B2Gx0PNDQPS8Tm1RWGVZc1h5LTQ">Download</a></p>
+
+<p>Here is an example by <a href="https://plus.google.com/107240213889695247387" title="Google Plus Profile">Vasco B.</a>
+<a href="https://drive.google.com/uc?export=download&amp;id=0B6mU0S1ofGyNd0FpdHZUalEzWXM">Download</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[I'm Getting a New Phone. How Can I Transfer My Data]]></title>
     <link href="http://unifylog.github.io/blog/2013/11/25/im-getting-a-new-phone-how-can-i-transfer-my-data/"/>
-    <updated>2013-11-25T08:59:48-07:00</updated>
+    <updated>2013-11-25T07:59:48-08:00</updated>
     <id>http://unifylog.github.io/blog/2013/11/25/im-getting-a-new-phone-how-can-i-transfer-my-data</id>
     <content type="html"><![CDATA[<h3>Option 1:</h3>
 
@@ -38,7 +124,7 @@
   <entry>
     <title type="html"><![CDATA[Program Manager Tutorial Video]]></title>
     <link href="http://unifylog.github.io/blog/2013/07/03/program-manager-tutorial-video/"/>
-    <updated>2013-07-03T07:41:05-06:00</updated>
+    <updated>2013-07-03T06:41:05-07:00</updated>
     <id>http://unifylog.github.io/blog/2013/07/03/program-manager-tutorial-video</id>
     <content type="html"><![CDATA[<p>New video on how to create Exercise Programs:<br />
 http://www.youtube.com/watch?v=hezfEiClalk<br />
@@ -56,7 +142,7 @@ Check it out and let me know what you think.</p>
   <entry>
     <title type="html"><![CDATA[90Droid v7.9 Released]]></title>
     <link href="http://unifylog.github.io/blog/2013/01/29/90droid-v7-9-released/"/>
-    <updated>2013-01-29T18:34:27-07:00</updated>
+    <updated>2013-01-29T17:34:27-08:00</updated>
     <id>http://unifylog.github.io/blog/2013/01/29/90droid-v7-9-released</id>
     <content type="html"><![CDATA[<p>This is a <strong>HUGE </strong>release for 90Droid</p>
 
@@ -138,7 +224,7 @@ Check it out and let me know what you think.</p>
   <entry>
     <title type="html"><![CDATA[90Droid v7.2 Released]]></title>
     <link href="http://unifylog.github.io/blog/2012/12/29/90droid-v7-2-released/"/>
-    <updated>2012-12-29T16:52:04-07:00</updated>
+    <updated>2012-12-29T15:52:04-08:00</updated>
     <id>http://unifylog.github.io/blog/2012/12/29/90droid-v7-2-released</id>
     <content type="html"><![CDATA[<p>The most requested feature by power users:  Sorting of the days in a program definition. Here is how:</p>
 
@@ -186,19 +272,6 @@ Check it out and let me know what you think.</p>
 
 
 <p>Team 90Droid</p>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[90Droid Black Friday Special]]></title>
-    <link href="http://unifylog.github.io/blog/2012/11/21/90droid-black-friday-special/"/>
-    <updated>2012-11-21T15:20:17-07:00</updated>
-    <id>http://unifylog.github.io/blog/2012/11/21/90droid-black-friday-special</id>
-    <content type="html"><![CDATA[<p>Take advantage of the lowest price ever for the app. 70% off only for a few days:</p>
-
-
-<p><a href="https://play.google.com/store/apps/details?id=com.unifylog.droid90">https://play.google.com/store/apps/details?id=com.unifylog.droid90</a></p>
 
 ]]></content>
   </entry>

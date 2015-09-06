@@ -3,7 +3,7 @@
  <title>Your Title - </title>
  <link href="http://example.com/blog/tags/video/atom.xml" rel="self"/>
  <link href="http://example.com/tag/.html"/>
- <updated>2014-08-06T19:08:58-06:00</updated>
+ <updated>2015-09-06T16:03:49-07:00</updated>
  <id>http://example.com/tag/.html</id>
  <author>
    <name>Author Here</name>
@@ -12,7 +12,7 @@
  <entry>
    <title>90Droid video review</title>
    <link href="http://example.com/blog/2011/04/22/90droid-video-review/"/>
-   <updated>2011-04-22T11:46:46-06:00</updated>
+   <updated>2011-04-22T10:46:46-07:00</updated>
    <id>http://example.com/blog/2011/04/22/90droid-video-review</id>
    <content type="html">&lt;p&gt;Look at what we found on youtube:&lt;br /&gt;
 &lt;iframe title=&quot;YouTube video player&quot; width=&quot;580&quot; height=&quot;353&quot; src=&quot;http://www.youtube.com/embed/DjDt33f269k&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;

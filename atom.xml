@@ -4,7 +4,7 @@
   <title><![CDATA[UnifyLog's]]></title>
   <link href="http://unifylog.github.io/atom.xml" rel="self"/>
   <link href="http://unifylog.github.io/"/>
-  <updated>2014-08-06T19:08:58-06:00</updated>
+  <updated>2015-09-06T16:03:49-07:00</updated>
   <id>http://unifylog.github.io/</id>
   <author>
     <name><![CDATA[Andres Aguilar]]></name>
@@ -14,9 +14,105 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Fit XT CSV Import]]></title>
+    <link href="http://unifylog.github.io/blog/2015/09/06/fit-xt-csv-import/"/>
+    <updated>2015-09-06T15:11:03-07:00</updated>
+    <id>http://unifylog.github.io/blog/2015/09/06/fit-xt-csv-import</id>
+    <content type="html"><![CDATA[<p>We have introduced the ability to import CSV files, here we describe the expected format.</p>
+
+<p>CSV stands for Comma Separated Values. A CSV file is a plain text file that contains columns separated by commas and every new line corresponds to a row.</p>
+
+<p>Every file defines one and only one Exercise Program.
+For every <em>Program</em> you must define <em>Days</em>, <em>Exercise Groups</em> and <em>Exercises</em> in that order.
+The number of columns varies depending according to the rules defined below.</p>
+
+<h2>Comments</h2>
+
+<p>A line that starts with <code>#,</code> is considered a comment and hence ignored. Exaple:</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>#,"This is a comment line, it starts with #, and the rest is ignored"</span></code></pre></td></tr></table></div></figure>
+
+
+<h2>Exercise Program</h2>
+
+<p><em>There can only be one per file</em></p>
+
+<h3>Columns</h3>
+
+<p>PROGRAM, Name, Notes</p>
+
+<h3>Example</h3>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>"PROGRAM","90 day Classic","Program Notes"</span></code></pre></td></tr></table></div></figure>
+
+
+<h2>Days</h2>
+
+<p>There can be multiple in the file. Order of appearance is important</p>
+
+<h3>Columns</h3>
+
+<p>DAY,Exercise Group Name1, Exercise Group Name 2,&hellip;</p>
+
+<h3>Example</h3>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>"DAY","Chest","Abs"</span></code></pre></td></tr></table></div></figure>
+
+
+<h2>Exercise Groups</h2>
+
+<p>There can be multiple in the file. Order of appearance is important</p>
+
+<h3>Columns</h3>
+
+<p>GROUP, Group Name, Group Notes,Exercise Name1, Exercise Name 2,&hellip;</p>
+
+<h3>Examples</h3>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>"GROUP","Chest","Sample Import Group","Push-ups","Pull-ups","Curls"
+</span><span class='line'>"GROUP","Abs",,"Uphill Bicycle","Crunches"</span></code></pre></td></tr></table></div></figure>
+
+
+<h2>Exercises</h2>
+
+<p>There can be multiple in the file. Order of appearance is important</p>
+
+<h3>Columns</h3>
+
+<p>EXERCISE, Exercise Name, Exercise Notes,Exercise Type (C=Cardio,R=Reps,RW=Reps and Weight,T=Count down timer,SW=Stop Watch), Duration, Youtube video Id, Youtube video duration, Youtube video start time</p>
+
+<h3>Example</h3>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>"EXERCISE","Push-ups",,"R","0",,"0","0"
+</span><span class='line'>"EXERCISE","Pull-ups",,"R","0",,"0","0"
+</span><span class='line'>"EXERCISE","Curls",,"RW","0",,"0","0"
+</span><span class='line'>"EXERCISE","Uphill Bicycle",,"R","0",,"0","0"
+</span><span class='line'>"EXERCISE","Crunches",,"R","0",,"0","0"</span></code></pre></td></tr></table></div></figure>
+
+
+<h1>Template</h1>
+
+<p><a href="https://drive.google.com/uc?export=download&amp;id=0B2Gx0PNDQPS8Tm1RWGVZc1h5LTQ">Download</a></p>
+
+<p>Here is an example by <a href="https://plus.google.com/107240213889695247387" title="Google Plus Profile">Vasco B.</a>
+<a href="https://drive.google.com/uc?export=download&amp;id=0B6mU0S1ofGyNd0FpdHZUalEzWXM">Download</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Introducing Food Allergy Tracker Free! (Beta)]]></title>
     <link href="http://unifylog.github.io/blog/2014/06/19/introducing-food-allergy-tracker-free-beta/"/>
-    <updated>2014-06-19T20:16:06-06:00</updated>
+    <updated>2014-06-19T19:16:06-07:00</updated>
     <id>http://unifylog.github.io/blog/2014/06/19/introducing-food-allergy-tracker-free-beta</id>
     <content type="html"><![CDATA[<p>We are opening our new app to anyone interested in beta testing. Simply follow this link: to join the beta program and download: <a href="https://plus.google.com/communities/108264361539672674020">https://plus.google.com/communities/108264361539672674020</a></p>
 <p>Get it here:</p>
@@ -27,7 +123,7 @@
   <entry>
     <title type="html"><![CDATA[New Feature: Set App Folder]]></title>
     <link href="http://unifylog.github.io/blog/2014/05/30/new-feature-set-app-folder/"/>
-    <updated>2014-05-30T11:56:00-06:00</updated>
+    <updated>2014-05-30T10:56:00-07:00</updated>
     <id>http://unifylog.github.io/blog/2014/05/30/new-feature-set-app-folder</id>
     <content type="html"><![CDATA[<p>Some users have reported the need to change the app&#8217;s base folder either to optimize their storage space or to link it to a backup folder such as Drop box.</p>
 <p>Please note that this is an advanced feature and it will require for you to have a File Manager to physically move the folder.</p>
@@ -63,7 +159,7 @@
   <entry>
     <title type="html"><![CDATA[Filtering Records]]></title>
     <link href="http://unifylog.github.io/blog/2014/02/20/filtering-records/"/>
-    <updated>2014-02-20T13:57:08-07:00</updated>
+    <updated>2014-02-20T12:57:08-08:00</updated>
     <id>http://unifylog.github.io/blog/2014/02/20/filtering-records</id>
     <content type="html"><![CDATA[<p>We created a quick how-to on filtering your records:</p>
 <p>&nbsp;</p>
@@ -74,7 +170,7 @@
   <entry>
     <title type="html"><![CDATA[Extreme Fitness Tracker Official Site]]></title>
     <link href="http://unifylog.github.io/blog/2014/02/14/extreme-fitness-tracker-official-site/"/>
-    <updated>2014-02-14T15:43:58-07:00</updated>
+    <updated>2014-02-14T14:43:58-08:00</updated>
     <id>http://unifylog.github.io/blog/2014/02/14/extreme-fitness-tracker-official-site</id>
     <content type="html"><![CDATA[<p>Go to to <a href="http://www.90droid.com">http://www.90droid.com</a> to get Access to Results and All Shared Exercise Programs.</p>
 ]]></content>
@@ -83,7 +179,7 @@
   <entry>
     <title type="html"><![CDATA[I'm Getting a New Phone. How Can I Transfer My Data]]></title>
     <link href="http://unifylog.github.io/blog/2013/11/25/im-getting-a-new-phone-how-can-i-transfer-my-data/"/>
-    <updated>2013-11-25T08:59:48-07:00</updated>
+    <updated>2013-11-25T07:59:48-08:00</updated>
     <id>http://unifylog.github.io/blog/2013/11/25/im-getting-a-new-phone-how-can-i-transfer-my-data</id>
     <content type="html"><![CDATA[<h3>Option 1:</h3>
 <div>If you have the same gmail account in both phones: Go to backup, tap on backup on the old phone, wait a few seconds and then on the new phone: go to back up and then hit the Restore button.</div>
@@ -96,7 +192,7 @@
   <entry>
     <title type="html"><![CDATA[Program Manager Tutorial Video]]></title>
     <link href="http://unifylog.github.io/blog/2013/07/03/program-manager-tutorial-video/"/>
-    <updated>2013-07-03T07:41:05-06:00</updated>
+    <updated>2013-07-03T06:41:05-07:00</updated>
     <id>http://unifylog.github.io/blog/2013/07/03/program-manager-tutorial-video</id>
     <content type="html"><![CDATA[<p>New video on how to create Exercise Programs:<br />
 http://www.youtube.com/watch?v=hezfEiClalk<br />
@@ -109,7 +205,7 @@ Check it out and let me know what you think.</p>
   <entry>
     <title type="html"><![CDATA[90Droid v7.9 Released]]></title>
     <link href="http://unifylog.github.io/blog/2013/01/29/90droid-v7-9-released/"/>
-    <updated>2013-01-29T18:34:27-07:00</updated>
+    <updated>2013-01-29T17:34:27-08:00</updated>
     <id>http://unifylog.github.io/blog/2013/01/29/90droid-v7-9-released</id>
     <content type="html"><![CDATA[<p>This is a <strong>HUGE </strong>release for 90Droid</p>
 <p><strong>YouTube videos of your workouts:</strong></p>
@@ -142,7 +238,7 @@ Check it out and let me know what you think.</p>
   <entry>
     <title type="html"><![CDATA[90Droid v7.2 Released]]></title>
     <link href="http://unifylog.github.io/blog/2012/12/29/90droid-v7-2-released/"/>
-    <updated>2012-12-29T16:52:04-07:00</updated>
+    <updated>2012-12-29T15:52:04-08:00</updated>
     <id>http://unifylog.github.io/blog/2012/12/29/90droid-v7-2-released</id>
     <content type="html"><![CDATA[<p>The most requested feature by power users:  Sorting of the days in a program definition. Here is how:</p>
 <p>Go to Programs</p>
@@ -166,7 +262,7 @@ Check it out and let me know what you think.</p>
   <entry>
     <title type="html"><![CDATA[Get the New "90Droid Free"]]></title>
     <link href="http://unifylog.github.io/blog/2012/12/08/get-the-new-90droid-free/"/>
-    <updated>2012-12-08T14:16:01-07:00</updated>
+    <updated>2012-12-08T13:16:01-08:00</updated>
     <id>http://unifylog.github.io/blog/2012/12/08/get-the-new-90droid-free</id>
     <content type="html"><![CDATA[<p>&#8220;90Droid Free&#8221; is the new version of the app. Designed for people that want to give 90Droid a try. It offers the Three most used workout programs for you to track.</p>
 <p><a href="https://play.google.com/store/apps/details?id=com.unifylog.droid90free">https://play.google.com/store/apps/details?id=com.unifylog.droid90free</a></p>
@@ -178,7 +274,7 @@ Check it out and let me know what you think.</p>
   <entry>
     <title type="html"><![CDATA[90Droid Black Friday Special]]></title>
     <link href="http://unifylog.github.io/blog/2012/11/21/90droid-black-friday-special/"/>
-    <updated>2012-11-21T15:20:17-07:00</updated>
+    <updated>2012-11-21T14:20:17-08:00</updated>
     <id>http://unifylog.github.io/blog/2012/11/21/90droid-black-friday-special</id>
     <content type="html"><![CDATA[<p>Take advantage of the lowest price ever for the app. 70% off only for a few days:</p>
 <p><a href="https://play.google.com/store/apps/details?id=com.unifylog.droid90">https://play.google.com/store/apps/details?id=com.unifylog.droid90</a></p>
@@ -188,7 +284,7 @@ Check it out and let me know what you think.</p>
   <entry>
     <title type="html"><![CDATA[90Droid v7.1 Released]]></title>
     <link href="http://unifylog.github.io/blog/2012/11/17/90droid-v7-1-released/"/>
-    <updated>2012-11-17T15:58:20-07:00</updated>
+    <updated>2012-11-17T14:58:20-08:00</updated>
     <id>http://unifylog.github.io/blog/2012/11/17/90droid-v7-1-released</id>
     <content type="html"><![CDATA[<p>Improved the Weight Sets User Interface. Includes meaning of the icons and the menu item for phones with Jelly Bean.</p>
 <p style="text-align: center;"><a href="http://unifylog.github.io/assets/device-2012-11-17-163526-e1353196570424-300x180.png"><img class="size-medium wp-image-371 aligncenter" title="device-2012-11-17-163526" src="http://unifylog.github.io/assets/device-2012-11-17-163526-e1353196570424-300x180.png" alt="" width="300" height="180" /></a></p>
@@ -201,7 +297,7 @@ Check it out and let me know what you think.</p>
   <entry>
     <title type="html"><![CDATA[90Droid v7.0 Released]]></title>
     <link href="http://unifylog.github.io/blog/2012/11/15/90droid-v7-0-released/"/>
-    <updated>2012-11-15T09:58:25-07:00</updated>
+    <updated>2012-11-15T08:58:25-08:00</updated>
     <id>http://unifylog.github.io/blog/2012/11/15/90droid-v7-0-released</id>
     <content type="html"><![CDATA[<p>The program lists now display the average ratings for the shared program:</p>
 <p><a href="http://unifylog.github.io/assets/device-2012-11-13-205918-168x300.png"><img class="size-medium wp-image-368 alignnone" title="device-2012-11-13-205918" src="http://unifylog.github.io/assets/device-2012-11-13-205918-168x300.png" alt="" width="168" height="300" /></a></p>
@@ -213,7 +309,7 @@ Check it out and let me know what you think.</p>
   <entry>
     <title type="html"><![CDATA[90Droid v6.9 Released]]></title>
     <link href="http://unifylog.github.io/blog/2012/11/08/90droid-v6-9-released/"/>
-    <updated>2012-11-08T16:07:50-07:00</updated>
+    <updated>2012-11-08T15:07:50-08:00</updated>
     <id>http://unifylog.github.io/blog/2012/11/08/90droid-v6-9-released</id>
     <content type="html"><![CDATA[<p>We included the option to delete All custom Workout Programs. This will help in case you  edited some programs or Workout Groups and want to reset to defaults.</p>
 <p>To access this feature go to programs and hit menu.</p>
@@ -226,7 +322,7 @@ Check it out and let me know what you think.</p>
   <entry>
     <title type="html"><![CDATA[90Droid v6.3 Released]]></title>
     <link href="http://unifylog.github.io/blog/2012/05/20/90droid-v6-3-released/"/>
-    <updated>2012-05-20T15:06:13-06:00</updated>
+    <updated>2012-05-20T14:06:13-07:00</updated>
     <id>http://unifylog.github.io/blog/2012/05/20/90droid-v6-3-released</id>
     <content type="html"><![CDATA[<p>We have made it easier to create custom exercise programs. By adding the menu button to every &#8220;day&#8221; entry. See the pictures below:<br />
 <a href="http://unifylog.github.io/assets/device-2012-05-20-144914-168x300.png"><img class="alignleft size-medium wp-image-351" title="device-2012-05-20-144837" src="http://unifylog.github.io/assets/device-2012-05-20-144837-168x300.png" alt="" width="168" height="300" /></a><a href="http://unifylog.github.io/assets/device-2012-05-20-144914.png"><img class="alignleft size-medium wp-image-352" title="device-2012-05-20-144914" src="http://unifylog.github.io/assets/device-2012-05-20-144914-168x300.png" alt="" width="168" height="300" /></a></p>
@@ -237,7 +333,7 @@ Check it out and let me know what you think.</p>
   <entry>
     <title type="html"><![CDATA[90Droid v6.2 Released]]></title>
     <link href="http://unifylog.github.io/blog/2012/04/26/90droid-v6-2-released/"/>
-    <updated>2012-04-26T23:01:32-06:00</updated>
+    <updated>2012-04-26T22:01:32-07:00</updated>
     <id>http://unifylog.github.io/blog/2012/04/26/90droid-v6-2-released</id>
     <content type="html"><![CDATA[<p>Do you want to type your weights and repetitions?<br />
 This is your chance,</p>
@@ -252,7 +348,7 @@ This is your chance,</p>
   <entry>
     <title type="html"><![CDATA[90Droid on Kindle Fire]]></title>
     <link href="http://unifylog.github.io/blog/2012/01/02/90droid-on-kindle-fire/"/>
-    <updated>2012-01-02T08:30:24-07:00</updated>
+    <updated>2012-01-02T07:30:24-08:00</updated>
     <id>http://unifylog.github.io/blog/2012/01/02/90droid-on-kindle-fire</id>
     <content type="html"><![CDATA[<p>We have found the problem that makes the Kindle Fire force close with 90Droid. To prevent it please do the following: Main Screen > Preferences > (Uncheck) Disable auto key lock. Please let us know if you have any other questions/comments. </p>
 <p>Regards,<br />
@@ -263,7 +359,7 @@ Team 90Droid </p>
   <entry>
     <title type="html"><![CDATA[How Do I Track X2 With 90Droid?]]></title>
     <link href="http://unifylog.github.io/blog/2012/01/02/how-do-i-track-x2-with-90droid/"/>
-    <updated>2012-01-02T08:08:42-07:00</updated>
+    <updated>2012-01-02T07:08:42-08:00</updated>
     <id>http://unifylog.github.io/blog/2012/01/02/how-do-i-track-x2-with-90droid</id>
     <content type="html"><![CDATA[<p>From the main screen go to Programs > Menu > Download More.</p>
 <p>There you&#8217;ll find many exercise programs shared by the community, such as P90X2, Hybrids, and many others.</p>
@@ -276,7 +372,7 @@ Team 90Droid</p>
   <entry>
     <title type="html"><![CDATA[90Droid Community]]></title>
     <link href="http://unifylog.github.io/blog/2011/12/07/90droid-community/"/>
-    <updated>2011-12-07T21:16:16-07:00</updated>
+    <updated>2011-12-07T20:16:16-08:00</updated>
     <id>http://unifylog.github.io/blog/2011/12/07/90droid-community</id>
     <content type="html"><![CDATA[<p>Hello,</p>
 <p>Congrats everybody that got an early copy of P90X2. We are relying on our community to collaborate and share the workouts so we can all build the schedule together. You can see the shared programs in Programs > Download Program. If you are interested in sharing part of the schedule, please use use Programs > Menu > New Program then Long Tap on the Program Name and Share. We are sure we&#8217;ll complete it very soon. </p>
@@ -288,23 +384,10 @@ Team 90Droid</p>
   <entry>
     <title type="html"><![CDATA[90Droid v5.0 Released]]></title>
     <link href="http://unifylog.github.io/blog/2011/10/25/90droid-v5-0-released/"/>
-    <updated>2011-10-25T18:19:33-06:00</updated>
+    <updated>2011-10-25T17:19:33-07:00</updated>
     <id>http://unifylog.github.io/blog/2011/10/25/90droid-v5-0-released</id>
     <content type="html"><![CDATA[<p><a href="http://unifylog.github.io/assets/nutrition-180x300.png"><img class="alignleft size-medium wp-image-316" title="nutrition" src="http://unifylog.github.io/assets/nutrition-180x300.png" alt="" width="180" height="300" /></a> Added nutrition section where you can keep track of your calorie count. You can also enter data for previous dates.</p>
 <p>Enjoy</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[90Droid v4.6 Released]]></title>
-    <link href="http://unifylog.github.io/blog/2011/10/02/90droid-v4-6-released/"/>
-    <updated>2011-10-02T12:01:17-06:00</updated>
-    <id>http://unifylog.github.io/blog/2011/10/02/90droid-v4-6-released</id>
-    <content type="html"><![CDATA[<p>This version offers a way to enter previous workouts, a frequently requested feature.<a href="http://unifylog.github.io/assets/workout_date-180x300.png"><img class="alignleft size-medium wp-image-312" title="workout_date" src="http://unifylog.github.io/assets/workout_date-180x300.png" alt="" width="180" height="300" /></a></p>
-<p>To do that simply tap on menu &gt; Show Workout Date, this will set the date for the workout, this date will be persistent so you can enter as many as you need for the same day.</p>
-<p>If the workout date is not shown, today&#8217;s date will be used as usual.</p>
-<p>Enjoy,</p>
-<p>Team 90Droid</p>
 ]]></content>
   </entry>
   

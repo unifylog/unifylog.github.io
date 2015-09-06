@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Fit Xt | UnifyLog's]]></title>
+  <link href="http://unifylog.github.io/blog/categories/fit-xt/atom.xml" rel="self"/>
+  <link href="http://unifylog.github.io/"/>
+  <updated>2015-09-06T16:03:49-07:00</updated>
+  <id>http://unifylog.github.io/</id>
+  <author>
+    <name><![CDATA[Andres Aguilar]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Fit XT CSV Import]]></title>
+    <link href="http://unifylog.github.io/blog/2015/09/06/fit-xt-csv-import/"/>
+    <updated>2015-09-06T15:11:03-07:00</updated>
+    <id>http://unifylog.github.io/blog/2015/09/06/fit-xt-csv-import</id>
+    <content type="html"><![CDATA[<p>We have introduced the ability to import CSV files, here we describe the expected format.</p>
+
+<p>CSV stands for Comma Separated Values. A CSV file is a plain text file that contains columns separated by commas and every new line corresponds to a row.</p>
+
+<p>Every file defines one and only one Exercise Program.
+For every <em>Program</em> you must define <em>Days</em>, <em>Exercise Groups</em> and <em>Exercises</em> in that order.
+The number of columns varies depending according to the rules defined below.</p>
+
+<h2>Comments</h2>
+
+<p>A line that starts with <code>#,</code> is considered a comment and hence ignored. Exaple:</p>
+
+<pre><code>#,"This is a comment line, it starts with #, and the rest is ignored"
+</code></pre>
+
+<h2>Exercise Program</h2>
+
+<p><em>There can only be one per file</em></p>
+
+<h3>Columns</h3>
+
+<p>PROGRAM, Name, Notes</p>
+
+<h3>Example</h3>
+
+<pre><code class="">"PROGRAM","90 day Classic","Program Notes"
+</code></pre>
+
+<h2>Days</h2>
+
+<p>There can be multiple in the file. Order of appearance is important</p>
+
+<h3>Columns</h3>
+
+<p>DAY,Exercise Group Name1, Exercise Group Name 2,&hellip;</p>
+
+<h3>Example</h3>
+
+<pre><code>"DAY","Chest","Abs"
+</code></pre>
+
+<h2>Exercise Groups</h2>
+
+<p>There can be multiple in the file. Order of appearance is important</p>
+
+<h3>Columns</h3>
+
+<p>GROUP, Group Name, Group Notes,Exercise Name1, Exercise Name 2,&hellip;</p>
+
+<h3>Examples</h3>
+
+<pre><code>"GROUP","Chest","Sample Import Group","Push-ups","Pull-ups","Curls"
+"GROUP","Abs",,"Uphill Bicycle","Crunches"
+</code></pre>
+
+<h2>Exercises</h2>
+
+<p>There can be multiple in the file. Order of appearance is important</p>
+
+<h3>Columns</h3>
+
+<p>EXERCISE, Exercise Name, Exercise Notes,Exercise Type (C=Cardio,R=Reps,RW=Reps and Weight,T=Count down timer,SW=Stop Watch), Duration, Youtube video Id, Youtube video duration, Youtube video start time</p>
+
+<h3>Example</h3>
+
+<pre><code>"EXERCISE","Push-ups",,"R","0",,"0","0"
+"EXERCISE","Pull-ups",,"R","0",,"0","0"
+"EXERCISE","Curls",,"RW","0",,"0","0"
+"EXERCISE","Uphill Bicycle",,"R","0",,"0","0"
+"EXERCISE","Crunches",,"R","0",,"0","0"
+</code></pre>
+
+<h1>Template</h1>
+
+<p><a href="https://drive.google.com/uc?export=download&amp;id=0B2Gx0PNDQPS8Tm1RWGVZc1h5LTQ">Download</a></p>
+
+<p>Here is an example by <a href="https://plus.google.com/107240213889695247387" title="Google Plus Profile">Vasco B.</a>
+<a href="https://drive.google.com/uc?export=download&amp;id=0B6mU0S1ofGyNd0FpdHZUalEzWXM">Download</a></p>
+]]></content>
+  </entry>
+  
+</feed>

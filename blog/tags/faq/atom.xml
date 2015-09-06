@@ -3,7 +3,7 @@
  <title>Your Title - </title>
  <link href="http://example.com/blog/tags/faq/atom.xml" rel="self"/>
  <link href="http://example.com/tag/.html"/>
- <updated>2014-08-06T19:08:58-06:00</updated>
+ <updated>2015-09-06T16:03:49-07:00</updated>
  <id>http://example.com/tag/.html</id>
  <author>
    <name>Author Here</name>
@@ -12,7 +12,7 @@
  <entry>
    <title>I&#8217;m getting a new phone. How can I transfer my data</title>
    <link href="http://example.com/blog/2013/11/25/im-getting-a-new-phone-how-can-i-transfer-my-data/"/>
-   <updated>2013-11-25T08:59:48-07:00</updated>
+   <updated>2013-11-25T07:59:48-08:00</updated>
    <id>http://example.com/blog/2013/11/25/im-getting-a-new-phone-how-can-i-transfer-my-data</id>
    <content type="html">&lt;h3&gt;Option 1:&lt;/h3&gt;
 &lt;div&gt;If you have the same gmail account in both phones: Go to backup, tap on backup on the old phone, wait a few seconds and then on the new phone: go to back up and then hit the Restore button.&lt;/div&gt;
@@ -25,7 +25,7 @@
  <entry>
    <title>90Droid on Kindle Fire</title>
    <link href="http://example.com/blog/2012/01/02/90droid-on-kindle-fire/"/>
-   <updated>2012-01-02T08:30:24-07:00</updated>
+   <updated>2012-01-02T07:30:24-08:00</updated>
    <id>http://example.com/blog/2012/01/02/90droid-on-kindle-fire</id>
    <content type="html">&lt;p&gt;We have found the problem that makes the Kindle Fire force close with 90Droid. To prevent it please do the following: Main Screen &gt; Preferences &gt; (Uncheck) Disable auto key lock. Please let us know if you have any other questions/comments. &lt;/p&gt;
 &lt;p&gt;Regards,&lt;br /&gt;
@@ -36,7 +36,7 @@ Team 90Droid &lt;/p&gt;
  <entry>
    <title>How do I track X2 with 90Droid?</title>
    <link href="http://example.com/blog/2012/01/02/how-do-i-track-x2-with-90droid/"/>
-   <updated>2012-01-02T08:08:42-07:00</updated>
+   <updated>2012-01-02T07:08:42-08:00</updated>
    <id>http://example.com/blog/2012/01/02/how-do-i-track-x2-with-90droid</id>
    <content type="html">&lt;p&gt;From the main screen go to Programs &gt; Menu &gt; Download More.&lt;/p&gt;
 &lt;p&gt;There you&#39;ll find many exercise programs shared by the community, such as P90X2, Hybrids, and many others.&lt;/p&gt;
@@ -49,7 +49,7 @@ Team 90Droid&lt;/p&gt;
  <entry>
    <title>90Droid Community</title>
    <link href="http://example.com/blog/2011/12/07/90droid-community/"/>
-   <updated>2011-12-07T21:16:16-07:00</updated>
+   <updated>2011-12-07T20:16:16-08:00</updated>
    <id>http://example.com/blog/2011/12/07/90droid-community</id>
    <content type="html">&lt;p&gt;Hello,&lt;/p&gt;
 &lt;p&gt;Congrats everybody that got an early copy of P90X2. We are relying on our community to collaborate and share the workouts so we can all build the schedule together. You can see the shared programs in Programs &gt; Download Program. If you are interested in sharing part of the schedule, please use use Programs &gt; Menu &gt; New Program then Long Tap on the Program Name and Share. We are sure we&#39;ll complete it very soon. &lt;/p&gt;
@@ -61,7 +61,7 @@ Team 90Droid&lt;/p&gt;
  <entry>
    <title>What is the Account/Internet Permission used for?</title>
    <link href="http://example.com/blog/2011/07/21/what-is-the-accountinternet-permission-used-for/"/>
-   <updated>2011-07-21T19:25:03-06:00</updated>
+   <updated>2011-07-21T18:25:03-07:00</updated>
    <id>http://example.com/blog/2011/07/21/what-is-the-accountinternet-permission-used-for</id>
    <content type="html">&lt;p&gt;The app requires permissions to your google account so you don&#39;t have to manually sign in whenever you want to do a back up to/restore from the cloud. Please note that all we do is ask google for a token to see if your account is valid so we can store your data securely and nobody else has access to it. We however, don&#39;t get access to your password or personal information.&lt;/p&gt;
 &lt;p&gt;The internet permission is also used to back up/restore from the cloud, as well as for validating the license and gathering anonymous information on the performance of the app. Rest assured that we don&#39;t share any data with third parties.&lt;/p&gt;
@@ -72,7 +72,7 @@ Team 90Droid&lt;/p&gt;
  <entry>
    <title>How do I start over?</title>
    <link href="http://example.com/blog/2011/05/24/how-do-i-start-over/"/>
-   <updated>2011-05-24T13:48:19-06:00</updated>
+   <updated>2011-05-24T12:48:19-07:00</updated>
    <id>http://example.com/blog/2011/05/24/how-do-i-start-over</id>
    <content type="html">&lt;p&gt;We&#39;ve been getting this question since version 1. That&#39;s why we created the Cycles module, here is how it works:&lt;/p&gt;
 &lt;p&gt;A cycle is nothing but a range of dates for a specific program. for example: P90X Classic from January 1st to March 2nd.&lt;/p&gt;
@@ -88,7 +88,7 @@ Team 90Droid&lt;/p&gt;
  <entry>
    <title>I do more than 40 reps, how do I track them?</title>
    <link href="http://example.com/blog/2011/05/11/i-do-more-than-40-reps-how-do-i-track-them/"/>
-   <updated>2011-05-11T21:29:00-06:00</updated>
+   <updated>2011-05-11T20:29:00-07:00</updated>
    <id>http://example.com/blog/2011/05/11/i-do-more-than-40-reps-how-do-i-track-them</id>
    <content type="html">&lt;p&gt;Go to the main screen&lt;br /&gt;
 Hit the menu key&lt;br /&gt;
@@ -100,7 +100,7 @@ Tap on max reps and type your new maximum&lt;/p&gt;
  <entry>
    <title>How do I change the program (Classic, Doubles, Lean)</title>
    <link href="http://example.com/blog/2011/05/11/how-do-i-change-the-program-classic-doubles-lean/"/>
-   <updated>2011-05-11T14:20:00-06:00</updated>
+   <updated>2011-05-11T13:20:00-07:00</updated>
    <id>http://example.com/blog/2011/05/11/how-do-i-change-the-program-classic-doubles-lean</id>
    <content type="html">&lt;p&gt;In order to change the program please do the following:&lt;/p&gt;
 &lt;p&gt;Go to the main screen (The one with the list of days)&lt;br /&gt;
@@ -114,7 +114,7 @@ There you can select the program from the list.&lt;/p&gt;
  <entry>
    <title>90Droid is not saving my workouts</title>
    <link href="http://example.com/blog/2011/04/18/90droid-is-not-saving-my-workouts-after-the-update/"/>
-   <updated>2011-04-18T21:19:36-06:00</updated>
+   <updated>2011-04-18T20:19:36-07:00</updated>
    <id>http://example.com/blog/2011/04/18/90droid-is-not-saving-my-workouts-after-the-update</id>
    <content type="html">&lt;p&gt;Symptom: When you hit save on a workout then hit prev to see the results, you don&#39;t see the item in the history.&lt;/p&gt;
 &lt;p&gt;Your workout is being saved it&#39;s just not showing in the &quot;previous&quot; list&lt;/p&gt;
@@ -128,7 +128,7 @@ There you can select the program from the list.&lt;/p&gt;
  <entry>
    <title>90Droid says it&#8217;s not installed after update</title>
    <link href="http://example.com/blog/2011/04/15/90droid-says-its-not-installed-after-update/"/>
-   <updated>2011-04-15T11:22:06-06:00</updated>
+   <updated>2011-04-15T10:22:06-07:00</updated>
    <id>http://example.com/blog/2011/04/15/90droid-says-its-not-installed-after-update</id>
    <content type="html">&lt;p&gt;Some 90Droid users have reported that the only way to access the app is to go to the Android Market and launch it from there.&lt;/p&gt;
 &lt;p&gt;If this happens to you please do the following:&lt;/p&gt;
